@@ -9,31 +9,31 @@
 			<BR>
 			<BR>
 
-			<!--<td >
+			<td >
 				<center>
 					<a  href ="ingresarClientes.php">INGRESAR CLIENTES</a>
 				</center>
-			</td>-->
+			</td>
 
 
-			<!--<td>
+			<td>
 				<center>
 					<a href ="ingresarProductos.php">INGRESAR PRODUCTOS</a>
 				</center>
-			</td>-->
+			</td>
 
 
-			<!--<td >
+			<td >
 				<center>
 					<a href ="ingresarCompras.php">INGRESAR COMPRAS</a>
 				</center>
-			</td>-->
+			</td>
 
-			<!--<td >
+			<td >
 				<center>
 					<a href ="Consulta.php">CONSULTA</a>
 				</center>
-			</td>-->
+			</td>
 
 		</body>	
 	</table>
